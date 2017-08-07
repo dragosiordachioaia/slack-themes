@@ -160,3 +160,7 @@ ts-message a.timestamp{
 #msgs_div .unread_divider.no_unreads hr{
   border-top-color: #888 !important;
 }
+
+.client_channels_list_container {
+  border-right: 1px solid rgba(0,0,0,0) !important;
+}
